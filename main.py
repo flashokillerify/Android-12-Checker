@@ -46,6 +46,7 @@ def main():
             print('[!] Result: {}'.format(matching))
         else:
             print('[*] No Android 12 (yet) 😕')
+            print('[*] Nolllllll Android 12 (yet) 😕')
             print('[*] Sleep time! 😴')
             time.sleep(10 * 60)  # Wait for 10 minutes
     try:
